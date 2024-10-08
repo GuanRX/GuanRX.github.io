@@ -5,7 +5,7 @@ Renxiang Guan is a Master student in School of Computer, National University of 
 **Research Interests:** Deep Graph Clustering and Hyperspectral Clustering
 
 ## News
-- <b><font color=#FF000>[September, 2024]</font></b> One paper has been accepted by Briefings in Bioinformatics (BIB, CCF B).
+- <font color=#FF000>[September, 2024]</font> One paper has been accepted by Briefings in Bioinformatics (BIB, CCF B).
 - **[July, 2024]** HuggingGPT is selected as the [2024 World Artificial Intelligence Conference Youth Outstanding Paper Award](https://sheitc.sh.gov.cn/zxxx/20240618/23f50b2ba3d0422daf775915f43dfa61.html).
 - **[May, 2024]** 6 papers (4 main conference and 2 findings) are accepted by ACL 2024, focusing on Evolving Agent, Theory of Mind, Parameter-Efficient and Progressive Tuning.
 - **[February, 2024]** Glad to serve as an Area Chair for ARR Rolling Review and ACL 2024.
