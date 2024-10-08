@@ -47,105 +47,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/10445484">Contrastive Multiview Subspace Clustering of Hyperspectral Images Based on Graph Convolutional Networks</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10445484">Pixel-Superpixel Contrastive Learning and Pseudo-Label Correction for Hyperspectral Image Clustering</a></div>
     <div class="author"><strong>Renxiang Guan</strong>, Zihao Li, Xianju Li, Chang Tang</div>
     <div class="periodical"><em>International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP, CCF B)</strong>, 2024.</em></div>
   </div>
 </div>
 </li>
-
-
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/publications/locate_label.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ACL</abbr>
-  </div>
-
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://aclanthology.org/2021.acl-long.216/">Locate and Label: A Two-stage Identifier for Nested Named Entity Recognition</a></div>
-    <div class="author"><strong>Yongliang Shen</strong>, Xinyin Ma, Zeqi Tan, Shuai Zhang, Wen Wang, Weiming Lu</div>
-    <div class="periodical"><em>Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2021.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/abs/2105.06804" class="btn-badge"><img src="https://img.shields.io/badge/arXiv-2105.06804-009922.svg?style=flat-square"></a>
-      <!-- <a href="https://github.com/tricktreat/locate-and-label" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <!-- <a href="https://www.semanticscholar.org/paper/Locate-and-Label%3A-A-Two-stage-Identifier-for-Nested-Shen-Ma/0ab855d5a81fdcb33a884465df6598570a1d0a21" class="btn-badge"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/0ab855d5a81fdcb33a884465df6598570a1d0a21?fields=citationCount&style=flat-square&logo=semanticscholar"></a> -->
-      <!-- <a class="btn btn-sm z-depth-0" role="button" style="font-size:12px;border-color:#e74d3c"><strong><i style="color:#e74d3c;font-weight:900">Oral Presentation</i></strong></a> -->
-      <a href="#" class="btn-badge"><img src="https://img.shields.io/badge/🏆 - Oral Presentation -b31b1b?style=flat-square"></a>
-      <a href="https://github.com/tricktreat/locate-and-label" class="btn-badge"><img src="https://img.shields.io/github/stars/tricktreat/locate-and-label?style=social&label=stars"></a>
-    </div>
-  </div>
-</div>
-</li>
-
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/publications/diffusionner.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ACL</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2305.13298">DiffusionNER: Boundary Diffusion for Named Entity Recognition</a></div>
-    <div class="author"><strong>Yongliang Shen</strong>, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang</div>
-    <div class="periodical"><em>Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2023.</em></div>
-    <div class="links">
-    <a href="https://arxiv.org/abs/2305.13298" class="btn-badge"><img src="https://img.shields.io/badge/arXiv-2305.13298-009922.svg?style=flat-square"></a>
-      <!-- <a href="https://github.com/tricktreat/DiffusionNER" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-      <!-- <a href="https://www.semanticscholar.org/paper/DiffusionNER%3A-Boundary-Diffusion-for-Named-Entity-Shen-Song/ecef9390e30878d1dc97d3c726962a5ecdac75c9" class="btn-badge"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/ecef9390e30878d1dc97d3c726962a5ecdac75c9?fields=citationCount&style=flat-square&logo=semanticscholar"></a> -->
-      <a href="https://github.com/tricktreat/DiffusionNER" class="btn-badge"><img src="https://img.shields.io/github/stars/tricktreat/DiffusionNER?style=social&label=stars"></a>
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
-    </div>
-  </div>
-</div>
-</li>
-
-
-
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/publications/treeplv.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">EMNLP</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2407.00390">Advancing Process Verification for Large Language Models via Tree-Based Preference Learning</a></div>
-    <div class="author">Mingqian He, <strong>Yongliang Shen#</strong>, Wenqi Zhang, Zeqi Tan, Weiming Lu</div>
-    <div class="periodical"><em>Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.</em></div>
-    <div class="links">
-    <a href="https://arxiv.org/abs/2407.00390" class="btn-badge"><img src="https://img.shields.io/badge/arXiv-2407.00390-009922.svg?style=flat-square"></a>
-      <a href="https://github.com/Hareta-Leila/Tree-PLV" class="btn-badge"><img src="https://img.shields.io/github/stars/Hareta-Leila/Tree-PLV?style=social&label=stars"></a>
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
-    </div>
-  </div>
-</div>
-</li>
-
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/publications/multimodalselfinstruct.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">EMNLP</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2407.00390">Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model</a></div>
-    <div class="author">Wenqi Zhang, Zhenglin Cheng, Yuanyu He, Mengna Wang, <strong>Yongliang Shen</strong>, Zeqi Tan, Guiyang Hou, Mingqian He, Yanna Ma, Weiming Lu, Yueting Zhuang</div>
-    <div class="periodical"><em>Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.</em></div>
-    <div class="links">
-    <a href="https://arxiv.org/abs/2407.00390" class="btn-badge"><img src="https://img.shields.io/badge/arXiv-2407.00390-009922.svg?style=flat-square"></a>
-      <a href="https://github.com/zwq2018/Multi-modal-Self-instruct" class="btn-badge"><img src="https://img.shields.io/github/stars/zwq2018/Multi-modal-Self-instruct?style=social&label=stars"></a>
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
-    </div>
-  </div>
-</div>
-</li>
-
 
 
 <li>
