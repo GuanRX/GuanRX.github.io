@@ -17,7 +17,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10684766">Spatial-Spectral Graph Contrastive Clustering with Hard Sample Mining for Hyperspectral Images</a></div>
     <div class="author"><strong>Renxiang Guan</strong>, Wenxuan Tu, Zihao Li, Hao Yu, Dayu Hu, Yuzeng Chen, Chang Tang, Qiangqiang Yuan, Xinwang Liu</div>
-    <div class="periodical"><em>IEEE Transactions on Geoscience and Remote Sensing<strong>(TGRS)</strong>, 2024.</em></div>
+    <div class="periodical"><em>IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS, CCF B & Q1)</strong>, 2024.</em></div>
   </div>
 </div>
 </li>
@@ -35,15 +35,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10445484">Contrastive Multiview Subspace Clustering of Hyperspectral Images Based on Graph Convolutional Networks</a></div>
     <div class="author"><strong>Renxiang Guan</strong>, Zihao Li, Wenxuan Tu, Jun Wang, Yue Liu, Chang Tang, Xianju Li, Ruyi Feng</div>
-    <div class="periodical"><em>IEEE Transactions on Geoscience and Remote Sensing<strong>(TGRS)</strong>, 2024.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/abs/2311.18760" class="btn-badge"><img src="https://img.shields.io/badge/arXiv-2105.06804-009922.svg?style=flat-square"></a>
-      <!-- <a href="https://github.com/tricktreat/locate-and-label" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <!-- <a href="https://www.semanticscholar.org/paper/TaskBench%3A-Benchmarking-Large-Language-Models-for-Shen-Song/017f1c28c7d4fb65c6fff7d3c2fff1687597e252" class="btn-badge"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/017f1c28c7d4fb65c6fff7d3c2fff1687597e252?fields=citationCount&style=flat-square&logo=semanticscholar"></a> -->
-      <!-- <a class="btn btn-sm z-depth-0" role="button" style="font-size:12px;border-color:#e74d3c"><strong><i style="color:#e74d3c;font-weight:900">Oral Presentation</i></strong></a> -->
-      <!-- <a href="#" class="btn-badge"><img src="https://img.shields.io/badge/🏆 - Oral Presentation -b31b1b?style=flat-square"></a> -->
-      <a href="https://github.com/microsoft/JARVIS" class="btn-badge"><img src="https://img.shields.io/github/stars/microsoft/JARVIS?style=social&label=stars"></a>
-    </div>
+    <div class="periodical"><em>IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS, CCF B & Q1)</strong>, 2024.</em></div>
   </div>
 </div>
 </li>
