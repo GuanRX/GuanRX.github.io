@@ -15,19 +15,9 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2303.17580">HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace</a></div>
-    <div class="author"><strong>Yongliang Shen</strong>, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang</div>
-    <div class="periodical"><em>Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.</em></div>
-    <div class="links">
-      <!-- <a href="https://arxiv.org/abs/2303.17580" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
-      <a href="https://arxiv.org/abs/2303.17580" class="btn-badge"><img src="https://img.shields.io/badge/arXiv-2303.17580-009922.svg?style=flat-square"></a>
-      <!-- <a href="https://github.com/microsoft/JARVIS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <!-- <a href="https://huggingface.co/spaces/microsoft/HuggingGPT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a> -->
-      <a href="https://huggingface.co/spaces/microsoft/HuggingGPT" class="btn-badge"><img src="https://img.shields.io/badge/%F0%9F%A4%97 - Demo -green?style=flat-square"></a>
-      <!-- <a href="https://www.semanticscholar.org/paper/HuggingGPT%3A-Solving-AI-Tasks-with-ChatGPT-and-its-Shen-Song/bf54ccf6e5c9a7da47a0909471002881913f02ba" class="btn-badge"><img src="https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https://api.semanticscholar.org/graph/v1/paper/bf54ccf6e5c9a7da47a0909471002881913f02ba?fields=citationCount&style=flat-square&logo=semanticscholar"></a> -->
-      <a href="https://github.com/microsoft/JARVIS" class="btn-badge"><img src="https://img.shields.io/github/stars/microsoft/JARVIS?style=social&label=stars"></a>
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
-    </div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10684766">Spatial-Spectral Graph Contrastive Clustering with Hard Sample Mining for Hyperspectral Images</a></div>
+    <div class="author"><strong>Renxiang Guan</strong>, Wenxuan Tu, Zihao Li, Hao Yu, Dayu Hu, Yuzeng Chen, Chang Tang, Qiangqiang Yuan, Xinwang Liu</div>
+    <div class="periodical"><em>IEEE Transactions on Geoscience and Remote Sensing<strong>(TGRS)</strong>, 2024.</em></div>
   </div>
 </div>
 </li>
@@ -39,13 +29,13 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/publications/taskbench.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">NeurIPS</abbr>
+    <abbr class="badge">TGRS</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2311.18760">TaskBench: Benchmarking Large Language Models for Task Automation</a></div>
-    <div class="author"><strong>Yongliang Shen</strong>,Kaitao Song, Xu Tan, Wenqi Zhang, Kan Ren, Siyu Yuan, Weiming Lu, Dongsheng Li, Y. Zhuang</div>
-    <div class="periodical"><em>Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.</em></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10445484">Contrastive Multiview Subspace Clustering of Hyperspectral Images Based on Graph Convolutional Networks</a></div>
+    <div class="author"><strong>Renxiang Guan</strong>, Zihao Li, Wenxuan Tu, Jun Wang, Yue Liu, Chang Tang, Xianju Li, Ruyi Feng</div>
+    <div class="periodical"><em>IEEE Transactions on Geoscience and Remote Sensing<strong>(TGRS)</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2311.18760" class="btn-badge"><img src="https://img.shields.io/badge/arXiv-2105.06804-009922.svg?style=flat-square"></a>
       <!-- <a href="https://github.com/tricktreat/locate-and-label" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
