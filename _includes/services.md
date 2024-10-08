@@ -1,16 +1,16 @@
 ## Services
 
-Reviewer for ICLR 2024, NeurIPS 2023-2024, EMNLP 2024, MM 2024
-Reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-Reviewer for Pattern Recognition (PR)
-Reviewer for Neural Networks (NN)
-Reviewer for Expert systems with applications (ESWA)
-Reviewer for Knowledge-based systems (KBS)
-Reviewer for Applied soft computing (ASC)
-Reviewer for Engineering Applications of Artificial Intelligence (EAAI)
-Reviewer for Neurocomputing
-Reviewer for IEEE journal of selected topics in applied earth observations and remote sensing (JSTARS)
-Reviewer for Neural Processing Letters (NPL)
+- Reviewer for ICLR 2024, NeurIPS 2024, EMNLP 2024, MM 2024
+- Reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- Reviewer for Pattern Recognition (PR)
+- Reviewer for Neural Networks (NN)
+- Reviewer for Expert systems with applications (ESWA)
+- Reviewer for Knowledge-based systems (KBS)
+- Reviewer for Applied soft computing (ASC)
+- Reviewer for Engineering Applications of Artificial Intelligence (EAAI)
+- Reviewer for Neurocomputing
+- Reviewer for IEEE journal of selected topics in applied earth observations and remote sensing (JSTARS)
+- Reviewer for Neural Processing Letters (NPL)
 
 
 <!-- <h4 style="margin:0 10px 0;">Conference Reviewers</h4> -->
