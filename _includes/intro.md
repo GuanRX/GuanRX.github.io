@@ -1,26 +1,12 @@
 ## About Me
 
+Renxiang Guan is a Master student in School of Computer, National University of Defense Technology (NUDT) advised by Prof. [Xinwang Liu](https://xinwangliu.github.io/). Before that, He got his Bachelor degree in the School of Computer, China University of Geoscience (CUG), in July 2023. With excellent grades and competition awards, he was recommended for admission to NUDT.
 
-I received my Ph.D. degree from [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, supervised by Prof. [Yueting Zhuang](https://person.zju.edu.cn/yzhuang). My research interests include large language models, AI agents and knowledge graph. I am a member of [DCD Lab](#) and worked closely with Prof. [Weiming Lu](https://scholar.google.com/citations?user=H42slBQAAAAJ&hl=en).
-From 2021 to 2022, I was a research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/), mentored by Xiaobin Wang and [Yong Jiang](https://jiangyong.site/). 
-From 2022 to 2023, I was a research intern at [Microsoft Research Asia](https://www.msra.cn), mentored by [Kaitao Song](https://scholar.google.com/citations?user=LLk9dR8AAAAJ) and [Xu Tan](https://tan-xu.github.io/).
-
-<!-- and Prof. [Jian Shao](https://person.zju.edu.cn/jshao) -->
-
-<!-- [![](https://img.shields.io/badge/dynamic/json?label=CITATIONS&query=citationCount&url=https://api.semanticscholar.org/graph/v1/author/1471660296?fields=citationCount)](https://www.semanticscholar.org/author/Yongliang-Shen/1471660296)
-[![](https://img.shields.io/badge/dynamic/json?label=PUBLICATIONS&query=paperCount&url=https://api.semanticscholar.org/graph/v1/author/1471660296?fields=paperCount)](https://www.semanticscholar.org/author/Yongliang-Shen/1471660296) -->
-
-## Research Interests
-
-- **Large Language Models**, especially on the capabilities of large language models (LLMs) for reasoning, planning, and execution, focusing on the controllability, interpretability, and efficiency of LLMs. Self-reflective, self-improving and self-evolving LLMs are also of interest.
-- **AI Agents**, especially on [autonomous agents]((https://lilianweng.github.io/posts/2023-06-23-agent/)), multi-agent systems, and human-agent collaboration, focusing on the abilities of agents for reasoning, decision-making, and interaction.
-- **Multimodel Learning**, especially on multimodal pretraining and multimodal reasoning, focusing on the fusion of vision and language.
-- **Knowledge Computing**, especially on the colaboration of external knowledge and large language models, focusing on the knowledge reasoning and evolution.
+**Research Interests:** Deep Graph Clustering and Hyperspectral Clustering
 
 ## News
 
-- **[October, 2024]** One paper (TaskBench) is accepted by NeurIPS 2024.
-- **[September, 2024]** Two papers are accepted by EMNLP 2024, focusing on LLM reasoning and Multimodal Self-Instruct.
+- **[**<b><font color=red >September, 2024]</font></b> **]** One paper has been accepted by Briefings in Bioinformatics (BIB, CCF B).
 - **[July, 2024]** HuggingGPT is selected as the [2024 World Artificial Intelligence Conference Youth Outstanding Paper Award](https://sheitc.sh.gov.cn/zxxx/20240618/23f50b2ba3d0422daf775915f43dfa61.html).
 - **[May, 2024]** 6 papers (4 main conference and 2 findings) are accepted by ACL 2024, focusing on Evolving Agent, Theory of Mind, Parameter-Efficient and Progressive Tuning.
 - **[February, 2024]** Glad to serve as an Area Chair for ARR Rolling Review and ACL 2024.
