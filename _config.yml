@@ -1,24 +1,19 @@
 # Basic Information 
-title: Yongliang Shen
-position: Ph.D. Student
-affiliation: Zhejiang University
-email: syl (at) zju.edu.cn
+title: Renxiang Guan
+position: Master Student
+affiliation: National University of Defense Technology
+email: renxiangguan (at) zju.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Yongliang Shen
-description: Personal homepage for Yongliang Shen.
+keywords: Renxiang Guan
+description: Personal homepage for Renxiang Guan.
 # canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=UT3NzFAAAAAJ
-# cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/tricktreat
-# zhihu_link: https://www.zhihu.com/people/nan-xi-anthony
-# weixin_link: ./assets/img/weixin.jpg
-# linkedin: https://www.linkedin.com/
-# twitter: https://twitter.com/
+google_scholar: https://scholar.google.com.hk/citations?user=V7ZiJtUAAAAJ&hl=zh-CN&oi=ao
+github_link: https://github.com/GuanRX
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
