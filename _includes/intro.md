@@ -11,4 +11,5 @@ Renxiang Guan is a Master student in School of Computer, National University of 
 - **[April, 2024]** One paper has been accepted by **Knowledge-Based Systems (KBS, CCF C)**.
 - **[March, 2024]** Two papers have been accepted by **International Joint Conference on Neural Networks (IJCNN, CCF C)**.
 - **[January, 2024]** One paper has been accepted by **IEEE Transactions on Geoscience and Remote Sensing (TGRS, CCF B)**.
+- **[December, 2023]** One paper has been accepted by **AAAI Conference on Artificial Intelligence (AAAI, CCF A)**.
 - **[December, 2023]** One paper has been accepted by **International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF B)**.
