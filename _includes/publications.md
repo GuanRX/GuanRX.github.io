@@ -22,13 +22,11 @@
 </div>
 </li>
 
-
 <li>
-
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/publications/taskbench.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/publications/CMSCGC.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">TGRS</abbr>
   </div>
 
@@ -39,6 +37,23 @@
   </div>
 </div>
 </li>
+
+<li>
+<div class="pub-row">
+  
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/publications/PSCPC.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICASSP</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10445484">Contrastive Multiview Subspace Clustering of Hyperspectral Images Based on Graph Convolutional Networks</a></div>
+    <div class="author"><strong>Renxiang Guan</strong>, Zihao Li, Xianju Li, Chang Tang</div>
+    <div class="periodical"><em>International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP, CCF B)</strong>, 2024.</em></div>
+  </div>
+</div>
+</li>
+
 
 
 <li>
