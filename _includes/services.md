@@ -1,7 +1,16 @@
 ## Services
 
-- Area Chair / Action Editor: ACL 2024, EMNLP 2024, ACL Rolling Review
-- PC Member: ACL 2021-2023, EMNLP 2021-2022, NAACL 2022, AAAI 2022, NeurIPS 2022, ICLR 2023
+Reviewer for ICLR 2024, NeurIPS 2023-2024, EMNLP 2024, MM 2024
+Reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+Reviewer for Pattern Recognition (PR)
+Reviewer for Neural Networks (NN)
+Reviewer for Expert systems with applications (ESWA)
+Reviewer for Knowledge-based systems (KBS)
+Reviewer for Applied soft computing (ASC)
+Reviewer for Engineering Applications of Artificial Intelligence (EAAI)
+Reviewer for Neurocomputing
+Reviewer for IEEE journal of selected topics in applied earth observations and remote sensing (JSTARS)
+Reviewer for Neural Processing Letters (NPL)
 
 
 <!-- <h4 style="margin:0 10px 0;">Conference Reviewers</h4> -->
