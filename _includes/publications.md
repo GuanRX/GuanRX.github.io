@@ -133,7 +133,7 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-981-97-5597-4_16">Superpixel-Based Dual-Neighborhood Contrastive Graph Autoencoder for Deep Subspace Clustering of Hyperspectral Image</a></div>
     <div class="author">Junhong Li, <strong>Renxiang Guan</strong>, Yuhang Han, Yaowen Hu, Zihao Li, Yanyan Wu, Ziwei Xu, Xianju Li</div>
     <div class="periodical"><em><strong>(ICIC, CCF C)</strong>, 2024.</em></div>
