@@ -93,7 +93,7 @@
     <div class="periodical"><em><strong>(KBS, CCF C & Q1)</strong>, 2024.</em></div>
   </div>
 </div>
-</li> -->
+</li>
 
 <!-- 
 <li>
