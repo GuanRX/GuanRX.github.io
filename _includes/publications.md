@@ -88,12 +88,33 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.mdpi.com/2072-4292/16/12/2177">LUFFD-YOLO: A Lightweight Model for UAV Remote Sensing Forest Fire Detection Based on Attention Mechanism and Multi-Level Feature Fusion</a></div>
+    <div class="author">Yuhang Han, Bingchen Duan, <strong>Renxiang Guan</strong>, Guang Yang, Zhen Zhen</div>
+    <div class="periodical"><em><strong>(Remote Sensing, CAAI B & Q1)</strong>, 2024.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="http">SMWE-GFPNNet: A high-precision and robust method for forest fire smoke detection</a></div>
     <div class="author">Rui Li, Yaowen Hu, Lin Li, <strong>Renxiang Guan</strong>, Ruoli Yang, Jialei Zhan, Weiwei Cai, Yanfeng Wang, Haiwen Xu, Liujun Li</div>
     <div class="periodical"><em><strong>(KBS, CCF C & Q1)</strong>, 2024.</em></div>
   </div>
 </div>
 </li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.mdpi.com/2504-446X/8/4/145">SSMA-YOLO: A Lightweight YOLO Model with Enhanced Feature Extraction and Fusion Capabilities for Drone-Aerial Ship Image Detection</a></div>
+    <div class="author">Yuhang Han, Jizhuang Guo, Haoze Yang, <strong>Renxiang Guan</strong>, Tianjiao Zhang</div>
+    <div class="periodical"><em><strong>(Drones, Q1)</strong>, 2024.</em></div>
+  </div>
+</div>
+</li>
+
 
 <!-- 
 <li>
