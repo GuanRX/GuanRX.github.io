@@ -41,7 +41,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/publications/CMSCGC.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/publications/AMGC.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">AAAI</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -71,7 +71,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/publications/CMSCGC.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/publications/BIB.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">BIB</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -85,7 +85,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/publications/CMSCGC.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/publications/AMF-GCN.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">RS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -99,7 +99,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/publications/CMSCGC.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/publications/ResCapsNet.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">RS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
