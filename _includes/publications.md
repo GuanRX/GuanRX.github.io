@@ -89,7 +89,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="[https://dl.acm.org/doi/abs/10.1145/3511808.3557648](https://www.researchgate.net/profile/Lin-Li-396/publication/378249988_SMWE-GFPNNet_A_High-precision_and_Robust_Method_for_Forest_Fire_Smoke_Detection/links/6694ef6cb15ba55907582c60/SMWE-GFPNNet-A-high-precision-and-robust-method-for-forest-fire-smoke-detection.pdf)">SMWE-GFPNNet: A high-precision and robust method for forest fire smoke detection</a></div>
+    <div class="title"><a href="http">SMWE-GFPNNet: A high-precision and robust method for forest fire smoke detection</a></div>
     <div class="author">Rui Li, Yaowen Hu, Lin Li, <strong>Renxiang Guan</strong>, Ruoli Yang, Jialei Zhan, Weiwei Cai, Yanfeng Wang, Haiwen Xu, Liujun Li</div>
     <div class="periodical"><em><strong>(KBS, CCF C & Q1)</strong>, 2024.</em></div>
   </div>
