@@ -85,6 +85,16 @@
 </div>
 </li>
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="http">SMWE-GFPNNet: A high-precision and robust method for forest fire smoke detection</a></div>
+    <div class="author">Rui Li, Yaowen Hu, Lin Li, <strong>Renxiang Guan</strong>, Ruoli Yang, Jialei Zhan, Weiwei Cai, Yanfeng Wang, Haiwen Xu, Liujun Li</div>
+    <div class="periodical"><em><strong>(KBS, CCF C & Q1)</strong>, 2024.</em></div>
+  </div>
+</div>
+</li> -->
+
 <!-- 
 <li>
 <div class="pub-row">
