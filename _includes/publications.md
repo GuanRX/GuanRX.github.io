@@ -40,6 +40,20 @@
 
 <li>
 <div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/publications/CMSCGC.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">AAAI</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29464">Attribute-Missing Graph Clustering Network</a></div>
+    <div class="author">Wenxuan Tu, <strong>Renxiang Guan</strong>, Sihang Zhou, Chuan Ma, Xin Peng, Zhiping Cai, Zhe Liu, Jieren Cheng, Xinwang Liu</div>
+    <div class="periodical"><em>AAAI Conference on Artificial Intelligence <strong>(AAAI, CCF A)</strong>, 2024.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
   
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/publications/PSCPC.png" class="teaser img-fluid z-depth-1">
@@ -50,6 +64,48 @@
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10445484">Pixel-Superpixel Contrastive Learning and Pseudo-Label Correction for Hyperspectral Image Clustering</a></div>
     <div class="author"><strong>Renxiang Guan</strong>, Zihao Li, Xianju Li, Chang Tang</div>
     <div class="periodical"><em>International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP, CCF B)</strong>, 2024.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/publications/CMSCGC.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">BIB</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://academic.oup.com/bib/article/25/6/bbae483/7790999?login=false">scEGG: an exogenous gene-guided clustering method for single-cell transcriptomic data</a></div>
+    <div class="author">Dayu Hu, <strong>Renxiang Guan</strong>, Ke Liang, Hao Yu, Hao Quan, Yawei Zhao, Xinwang Liu, Kunlun He</div>
+    <div class="periodical"><em>Briefings in Bioinformatics <strong>(BIB, CCF B & Q1)</strong>, 2024.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/publications/CMSCGC.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">RS</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.mdpi.com/2072-4292/15/23/5483">Adaptive multi-feature fusion graph convolutional network for hyperspectral image classification</a></div>
+    <div class="author">Jie Liu, <strong>Renxiang Guan#</strong>, Zihao Li, Jiaxuan Zhang, Yaowen Hu, Xueyong Wang</div>
+    <div class="periodical"><em>Remote Sensing <strong>(RS, CAAI B & Q1)</strong>, 2023.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/publications/CMSCGC.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">RS</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.mdpi.com/2072-4292/14/13/3216">Classification of heterogeneous mining areas based on rescapsnet and gaofen-5 imagery</a></div>
+    <div class="author"><strong>Renxiang Guan</strong>, Zihao Li, Teng Li, Xianju Li, Jinzhong Yang, Weitao Chen</div>
+    <div class="periodical"><em>Remote Sensing <strong>(RS, CAAI B & Q1)</strong>, 2023.</em></div>
   </div>
 </div>
 </li>
