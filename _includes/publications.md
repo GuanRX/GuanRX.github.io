@@ -33,8 +33,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10445484">Contrastive Multiview Subspace Clustering of Hyperspectral Images Based on Graph Convolutional Networks</a></div>
     <div class="author"><strong>Renxiang Guan</strong>, Zihao Li, Wenxuan Tu, Jun Wang, Yue Liu, Chang Tang, Xianju Li, Ruyi Feng</div>
-    <div class="periodical"><em>IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS, CCF B & Q1)</strong>, 2024.</em></div>
-      <!-- <a class="btn btn-sm z-depth-0" role="button" style="font-size:12px;border-color:#e74d3c"><strong><i style="color:#e74d3c;font-weight:900">ESI Highly Cited Paper</i></strong></a> -->
+    <div class="periodical"><em>IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS, CCF B & Q1)</strong>, 2024. <strong><i style="color:#e74d3c">ESI Highly Cited Paper</i></strong> </em></div>
   </div>
 </div>
 </li>
