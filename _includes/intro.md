@@ -6,6 +6,7 @@ Renxiang Guan is a Master student in School of Computer, National University of 
 
 ## News
 - **[November, 2024]** One paper has been selected as **ESI Highly Cited Paper**.
+- **[September, 2024]** One paper has been accepted by **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS, Q1)**.
 - **[September, 2024]** One paper has been accepted by **IEEE Transactions on Geoscience and Remote Sensing (TGRS, CCF B)**.
 - **[September, 2024]** One paper has been accepted by **Briefings in Bioinformatics (BIB, CCF B)**.
 - **[June, 2024]** One paper has been accepted by **Remote Sensing (RS, CAAI B)**.
