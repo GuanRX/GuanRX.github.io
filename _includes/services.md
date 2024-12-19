@@ -1,5 +1,5 @@
 ## Services
-- Reviewer for ICLR 2024, NeurIPS 2024, EMNLP 2024, MM 2024, AISTATS 2025, ICIC2024, IJCNN 2025
+- Reviewer for ICML2025, ICLR 2024, NeurIPS 2024, EMNLP 2024, MM 2024, AISTATS 2025, ICIC2024, IJCNN 2025
 - Reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - Reviewer for Pattern Recognition (PR)
 - Reviewer for Neural Networks (NN)
