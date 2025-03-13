@@ -6,6 +6,7 @@ Renxiang Guan is a Master student in School of Computer, National University of 
 
 ## News
 - **[March, 2025]** One papers has been accepted by **Computer Vision and Pattern Recognition Conference (CVPR, CCF A)**.
+- **[February, 2025]** One paper has been accepted by **ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS, CAAI A)**.
 - **[December, 2024]** Two papers have been accepted by **AAAI Conference on Artificial Intelligence (AAAI, CCF A)**.
 - **[November, 2024]** One paper has been selected as **ESI Highly Cited Paper**.
 - **[September, 2024]** One paper has been accepted by **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS, CAA B, Q1)**.
