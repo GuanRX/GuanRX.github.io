@@ -4,6 +4,7 @@
 - Reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - Reviewer for IEEE Transactions on Automation Science and Engineering (TASE)
 - Reviewer for Information Fusion (IF)
+- Reviewer for ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS)
 - Reviewer for Pattern Recognition (PR)
 - Reviewer for Neural Networks (NN)
 - Reviewer for Expert systems with applications (ESWA)
