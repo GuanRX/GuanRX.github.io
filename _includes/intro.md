@@ -5,8 +5,8 @@ Renxiang Guan is a Master student in School of Computer, National University of 
 **Research Interests:** Deep Graph Clustering and Hyperspectral Image Clustering
 
 ## News
-- **[March, 2025]** One papers has been accepted by **IEEE Transactions on Multimedia (TMM, CCF B)**.
-- **[March, 2025]** One papers has been accepted by **Computer Vision and Pattern Recognition Conference (CVPR, CCF A)**.
+- **[March, 2025]** One paper have been accepted by **IEEE Transactions on Multimedia (TMM, CCF B)**.
+- **[March, 2025]** One paper have been accepted by **Computer Vision and Pattern Recognition Conference (CVPR, CCF A)**.
 - **[February, 2025]** One paper has been accepted by **ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS, CAAI A)**.
 - **[December, 2024]** Two papers have been accepted by **AAAI Conference on Artificial Intelligence (AAAI, CCF A)**.
 - **[November, 2024]** One paper has been selected as **ESI Highly Cited Paper**.
