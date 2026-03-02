@@ -1,5 +1,5 @@
 ## Services
-- Reviewer for CVPR 2026, ECCV 2026, AAAI 2026, ICLR 2026/2025, IJCAI 2026/2025, ICML 2026/2025, NeurIPS 2025/2024, EMNLP 2024, MM 2025/2024
+- Reviewer for CVPR 2026, ECCV 2026, ACL 2026, AAAI 2026, ICLR 2026/2025, IJCAI 2026/2025, ICML 2026/2025, NeurIPS 2025/2024, EMNLP 2024, MM 2026/2025/2024
 - Reviewer for ECAI 2025, AISTATS 2025, ICIC2024, IJCNN 2025
 - Reviewer for IEEE Transactions on Image Processing (TIP)
 - Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
