@@ -5,6 +5,8 @@ Renxiang Guan is currently pursuing his Ph.D. degree at the School of Computer, 
 **Research Interests:** Deep Graph Clustering and Hyperspectral Image Clustering
 
 ## News
+
+- **[November, 2025]** I received the **Highland Spark Scholarship (高地星火奖学金)**.
 - **[November, 2025]** One paper has been accepted by **IEEE Transactions on Computational Biology and Bioinformatics (TCBB, CCF B)**.
 - **[November, 2025]** One paper has been accepted by **AAAI Conference on Artificial Intelligence (AAAI, CCF A)**.
 - **[July, 2025]** Two papers have been accepted by **ACM Multimedia (MM, CCF A)**.
