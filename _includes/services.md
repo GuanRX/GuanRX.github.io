@@ -18,6 +18,7 @@
 - Reviewer for Neurocomputing
 - Reviewer for IEEE journal of selected topics in applied earth observations and remote sensing (JSTARS)
 - Reviewer for Neural Processing Letters (NPL)
+- Reviewer for Geo-spatial Information Science
 
 
 <!-- <h4 style="margin:0 10px 0;">Conference Reviewers</h4> -->
