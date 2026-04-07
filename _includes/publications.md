@@ -6,6 +6,7 @@
 <div class="publications">
 <ol class="bibliography">
 
+
 <li>
 <div class="pub-row">
 
@@ -15,9 +16,41 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/10684766">Multi-view Graph Clustering with Dual Relation Optimization for Remote Sensing Data</a></div>
+    <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3746027.3754774">Multi-view Graph Clustering with Dual Relation Optimization for Remote Sensing Data</a></div>
     <div class="author"><strong>Renxiang Guan</strong>, Junhong Li, Siwei Wang, Wenxuan Tu, Miaomiao Li, En Zhu, Xinwang Liu, Ping Chen</div>
     <div class="periodical"><em>ACM International Conference on Multimedia <strong>(MM, CCF A)</strong>, 2025.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/publications/DSMVGC.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ACM MM</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3746027.3755870">Multi-view Graph Clustering with Dual Structure Awareness for Remote Sensing Data</a></div>
+    <div class="author">Xin Peng, Bowen Liu, <strong>Renxiang Guan*</strong>, Wenxuan Tu</div>
+    <div class="periodical"><em>ACM International Conference on Multimedia <strong>(MM, CCF A)</strong>, 2025.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/publications/SAMVGC.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">AAAI</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33861">Structure-Adaptive Multi-View Graph Clustering for Remote Sensing Data</a></div>
+    <div class="author"><strong>Renxiang Guan</strong>, Wenxuan Tu, Siwei Wang, Jiyuan Liu, Dayu Hu, Junhong Li, Yu Feng, Baili Xiao, Chang Tang, Xinwang Liun</div>
+    <div class="periodical"><em>AAAI Conference on Artificial Intelligence<strong>(AAAI, CCF A)</strong>, 2025.</em></div>
   </div>
 </div>
 </li>
