@@ -10,6 +10,22 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/publications/MDRO.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ACM MM</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10684766">Multi-view Graph Clustering with Dual Relation Optimization for Remote Sensing Data</a></div>
+    <div class="author"><strong>Renxiang Guan</strong>, Junhong Li, Siwei Wang, Wenxuan Tu, Miaomiao Li, En Zhu, Xinwang Liu, Ping Chen</div>
+    <div class="periodical"><em>ACM International Conference on Multimedia <strong>(MM, CCF A)</strong>, 2025.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/publications/SSGCC.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">TGRS</abbr>
   </div>
