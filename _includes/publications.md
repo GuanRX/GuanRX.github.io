@@ -6,6 +6,53 @@
 <div class="publications">
 <ol class="bibliography">
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/publications/CG-MAE.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">AAAI</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/39286">Graph Masked Autoencoder for Multi-view Remote Sensing Data Clustering</a></div>
+    <div class="author"><strong>Renxiang Guan</strong>, Junhong Li, Siwei Wang, Tianrui Liu, Dayu Hu, Miaomiao Li, Xinwang Liu</div>
+    <div class="periodical"><em>AAAI Conference on Artificial Intelligences<strong>(AAAI, CCF A)</strong>, 2026.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/publications/TCBB.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">TCBB</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/11267275">Single-Cell Multi-View Clustering via Community Detection With Unknown Number of Clusters</a></div>
+    <div class="author">Dayu Hu, <strong>Renxiang Guan</strong>, Zhibin Dong, Ke Liang, Jun Wang, Siwei Wang, Xinwang Liu</div>
+    <div class="periodical"><em>IEEE Transactions on Computational Biology and Bioinformatics<strong>(TCBB, CCF B)</strong>, 2025.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/publications/SEC-LSRM.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">TKDE</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/11037321">Sampling Enhanced Contrastive Multi-View Remote Sensing Data Clustering with Long-Short Range Information Mining</a></div>
+    <div class="author"><strong>Renxiang Guan</strong>, Tianrui Liu, Wenxuan Tu, Chang Tang, Wenhan Luo, Xinwang Liu</div>
+    <div class="periodical"><em>IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE, CCF A)</strong>, 2025.</em></div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
@@ -33,7 +80,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3746027.3755870">Multi-view Graph Clustering with Dual Structure Awareness for Remote Sensing Data</a></div>
-    <div class="author">Xin Peng, Bowen Liu, <strong>Renxiang Guan*</strong>, Wenxuan Tu</div>
+    <div class="author">Xin Peng, Bowen Liu, <strong>Renxiang Guan#</strong>, Wenxuan Tu</div>
     <div class="periodical"><em>ACM International Conference on Multimedia <strong>(MM, CCF A)</strong>, 2025.</em></div>
   </div>
 </div>
