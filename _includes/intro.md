@@ -7,7 +7,7 @@ Renxiang Guan is currently pursuing his Ph.D. degree at the School of Computer, 
 **WeChat:** grx_nudt
 
 ## News
-
+- **[May, 2026]** Two articles have been accepted by **ICML (CCF A) and IJCAI (CCF B)**, respectively.
 - **[November, 2025]** I received the **Highland Spark Scholarship (高地星火奖学金)**.
 - **[November, 2025]** One paper has been accepted by **IEEE Transactions on Computational Biology and Bioinformatics (TCBB, CCF B)**.
 - **[November, 2025]** One paper has been accepted by **AAAI Conference on Artificial Intelligence (AAAI, CCF A)**.
