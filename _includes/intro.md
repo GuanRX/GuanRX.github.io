@@ -3,6 +3,7 @@
 Renxiang Guan is currently pursuing his Ph.D. degree at the School of Computer, National University of Defense Technology (NUDT), under the supervision of Prof. [Xinwang Liu](https://xinwangliu.github.io/). He previously obtained his Master’s degree from the same institution in December 2025, also advised by Prof. [Xinwang Liu](https://xinwangliu.github.io/). Prior to that, he received his Bachelor’s degree from the School of Computer, China University of Geosciences (CUG), in July 2023. Owing to his outstanding academic performance and achievements in competitions, he was recommended for admission to NUDT.
 
 **Research Interests:** Deep Graph Clustering and Hyperspectral Image Clustering
+
 **WeChat:** grx_nudt
 
 ## News
