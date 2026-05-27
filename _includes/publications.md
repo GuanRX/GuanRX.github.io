@@ -16,7 +16,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://icml.cc/virtual/2026/poster/62054">Federated Multi-view Clustering for Remote Sensing Data</a></div>
-    <div class="author"><strong>Renxiang Guan</strong>Xiang Yang, Hao Yu, Siwei Wang, Suyuan Liu, Wenjing Yang, Jun-Jie Huang, Ao Li, Xinwang Liu, Yuhua Tang</div>
+    <div class="author"><strong>Renxiang Guan</strong>, Xiang Yang, Hao Yu, Siwei Wang, Suyuan Liu, Wenjing Yang, Jun-Jie Huang, Ao Li, Xinwang Liu, Yuhua Tang</div>
     <div class="periodical"><em>International Conference on Machine Learning<strong>(ICML, CCF A)</strong>, 2026.</em></div>
   </div>
 </div>
