@@ -7,6 +7,7 @@
 - Reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 - Reviewer for IEEE Transactions on Automation Science and Engineering (TASE)
+- Reviewer for IEEE/CAA Journal of Automatica Sinica (JAS)
 - Reviewer for Information Fusion (IF)
 - Reviewer for ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS)
 - Reviewer for Pattern Recognition (PR)
