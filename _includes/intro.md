@@ -7,7 +7,7 @@ Renxiang Guan is currently pursuing his Ph.D. degree at the School of Computer, 
 **WeChat:** grx_nudt
 
 ## News
-
+- **[June, 2026]** One paper has been accepted by **TIP (CCF A)**.
 - **[May, 2026]** I was selected for the **List of Representative Students Recipients of the National Scholarship for Postgraduate Students (研究生国家奖学金获奖学生代表名录，全国百名)**.
 - **[May, 2026]** Two papers have been accepted by **ICML (CCF A) and IJCAI (CCF B)**, respectively.
 - **[November, 2025]** I received the **Highland Spark Scholarship (高地星火奖学金，全校硕士唯二)**.
