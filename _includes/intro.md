@@ -7,6 +7,9 @@ Renxiang Guan is currently pursuing his Ph.D. degree at the School of Computer, 
 **WeChat:** grx_nudt
 
 ## News
+<div class="news-scroll-box" markdown="1">
+  
+- **[June, 2026]** One paper has been accepted by **TKDE (CCF A)**.
 - **[June, 2026]** One paper has been accepted by **TIP (CCF A)**.
 - **[May, 2026]** I was selected for the **List of Representative Students Recipients of the National Scholarship for Postgraduate Students (研究生国家奖学金获奖学生代表名录，全国百名)**.
 - **[May, 2026]** Two papers have been accepted by **ICML (CCF A) and IJCAI (CCF B)**, respectively.
@@ -25,3 +28,5 @@ Renxiang Guan is currently pursuing his Ph.D. degree at the School of Computer, 
 - **[September, 2024]** One paper has been accepted by **Briefings in Bioinformatics (BIB, CCF B)**.
 - **[January, 2024]** One paper has been accepted by **IEEE Transactions on Geoscience and Remote Sensing (TGRS, CCF B)**.
 - **[December, 2023]** One paper has been accepted by **AAAI Conference on Artificial Intelligence (AAAI, CCF A)**.
+
+</div>
