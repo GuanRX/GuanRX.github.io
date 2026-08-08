@@ -9,6 +9,8 @@ Renxiang Guan is currently pursuing his Ph.D. degree at the School of Computer, 
 ## News
 <div class="news-scroll-box" markdown="1">
   
+- **[August, 2026]** One paper has been accepted by **TCSVT (CCF B)**.
+- **[August, 2026]** One paper has been accepted by **TIP (CCF A)**.
 - **[June, 2026]** One paper has been accepted by **TKDE (CCF A)**.
 - **[June, 2026]** One paper has been accepted by **TIP (CCF A)**.
 - **[May, 2026]** I was selected for the **List of Representative Students Recipients of the National Scholarship for Postgraduate Students (研究生国家奖学金获奖学生代表名录，全国百名)**.
