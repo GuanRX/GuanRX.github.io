@@ -20,6 +20,7 @@
 - Reviewer for Neurocomputing
 - Reviewer for IEEE journal of selected topics in applied earth observations and remote sensing (JSTARS)
 - Reviewer for Smart Agricultural Technology
+- Reviewer for Human-Computer Interaction
 - Reviewer for Neural Processing Letters (NPL)
 - Reviewer for Geo-spatial Information Science
 - Reviewer for European Journal of Remote Sensing (TEJR)
