@@ -9,6 +9,7 @@ Renxiang Guan is currently pursuing his Ph.D. degree at the School of Computer, 
 ## News
 <div class="news-scroll-box" markdown="1">
 
+- **[August, 2026]** One paper has been accepted by **Advanced Science**.
 - **[August, 2026]** One paper has been accepted by **TPAMI (CCF A)**.
 - **[August, 2026]** One paper has been accepted by **TIP (CCF A) and TCSVT (CCF B)**.
 - **[June, 2026]** One paper has been accepted by **TKDE (CCF A) and TIP (CCF A)**.
@@ -26,7 +27,6 @@ Renxiang Guan is currently pursuing his Ph.D. degree at the School of Computer, 
 - **[December, 2024]** Two papers have been accepted by **AAAI Conference on Artificial Intelligence (AAAI, CCF A)**.
 - **[November, 2024]** One paper has been selected as **ESI Highly Cited Paper**.
 - **[September, 2024]** One paper has been accepted by **IEEE Transactions on Geoscience and Remote Sensing (TGRS, CCF B)**.
-- **[September, 2024]** One paper has been accepted by **Briefings in Bioinformatics (BIB, CCF B)**.
 - **[January, 2024]** One paper has been accepted by **IEEE Transactions on Geoscience and Remote Sensing (TGRS, CCF B)**.
 - **[December, 2023]** One paper has been accepted by **AAAI Conference on Artificial Intelligence (AAAI, CCF A)**.
 
